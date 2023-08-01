@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku (solver)
 
 Technologies Used:
 - Python 3.11.4
